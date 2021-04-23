@@ -10,8 +10,8 @@ Example project for setting and creating API
 
 ## Quick start
 
-* Download/clone this repository from git
-* Setup your connection string in appsettings.json in API Project
+* `Download/clone` this repository from git
+* Setup your <b> connection string </b> in `appsettings.json` in API Project
 * Add migration, update database
 * Add data to `Movie` table in the database mannualy
 * Start/Run your API project on https://localhost:7001
